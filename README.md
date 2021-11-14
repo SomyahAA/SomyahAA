@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Somyah
+- 🌱 I’m currently learning kotlin at Twaiq Academy bootcamp 
