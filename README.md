@@ -1,2 +1,2 @@
 - Hi, I’m Somyah
-- I’m currently learning kotlin at Twaiq Academy bootcamp 
+- I’m currently learning kotlin at Tuwaiq Academy bootcamp 
