@@ -2,12 +2,6 @@
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=somyahaa&label=Profile%20views&color=0e75b6&style=flat" alt="somyahaa" /> </p>
-
-- 🌱 I’m currently learning **flutter**
-
-- 📫 How to reach me **somyahalsayed@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
