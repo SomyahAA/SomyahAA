@@ -1,4 +1,5 @@
 Hi 👋, I'm Somyah a Developer working in Jeddah, Saudi Arabia
 * 🏢 I'm currently working at Aidi solutions 
 * 🌱 Learning all about Flutter, Dart
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somyahAA&theme=default)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/somyahAA?cardType=github&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
