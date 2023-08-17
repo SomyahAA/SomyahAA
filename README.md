@@ -6,7 +6,5 @@ Hi 👋, I'm Somyah a Developer working in Jeddah, Saudi Arabia
 
 ![](https://komarev.com/ghpvc/?username=SomyahAA&color=blue)
 
-(https://github-readme-stats.vercel.app/api/top-langs?username=SomyahAA&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/SomyahAA)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyahAA)](https://github.com/SomyahAA/github-readme-stats)
 
