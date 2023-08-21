@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somyah Alsayed</h1>
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=somyahaa&label=Profile%20views&color=0e75b6&style=flat" alt="somyahaa" /> </p>
 <p align="center">
 </p>
 
@@ -10,5 +9,5 @@
 
 
 <div align="center" >
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somyahaa&" alt="somyahaa" /></p> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somyahaa&theme=tokyonight" alt="mystreak"/>
 </div>
